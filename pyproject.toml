@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "smoltex"
+name = "smolcuts"
 version = "0.1.2"
-description = "Convert natural language descriptions to LaTeX equations"
-authors = ["maharshi <maharshi.pandya2002@gmail.com>"]
+description = "Gives you shortcuts to applications"
+authors = ["taken from maharshi"]
 readme = "README.md"
 packages = [{include = "smoltex"}]
 
